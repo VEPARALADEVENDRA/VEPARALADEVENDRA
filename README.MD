@@ -5,9 +5,9 @@
 
 ## Skills and Technologies
 
-- *Web Development:* -HTML , CSS , JavaScript (JS) ,Boot Strap, React and MongoDB.
+- *Web Development:* -HTML , CSS , JavaScript (JS) ,Boot Strap, SQL, React and MongoDB.
 - *Programming Languages:* - Java  .
-- *Other Tools:* - Git , GitHub, Android Studio, Visual Studio Code (VS Code).
+- *Other Tools:* - Git , GitHub, Android Studio, FireBase, Visual Studio Code (VS Code).
   
 ## Known Languages
 <p align="left">
@@ -28,8 +28,8 @@
   <a href="https://ieeexplore.ieee.org/author/968720097337954.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/ieee.svg" alt="IEEE Xplore" width="40" height="40"/>
   </a>
- <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
+ <a href="https://console.firebase.google.com/project/secondary-1c1c4/overview.html" target="_blank" rel="noreferrer">
+    <img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbilz9pg5y8l7t9te1818.png" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>

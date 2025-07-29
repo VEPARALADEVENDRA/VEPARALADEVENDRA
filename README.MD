@@ -19,18 +19,16 @@
 </p>
 
 ## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruba1018&theme=vision-friendly-dark&hide_border=false" alt="Kiruba1018" />.
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VEPARALADEVENDRA&theme=vision-friendly-dark&hide_border=false" alt="VEPARALADEVENDRA"/>
 
 ### Other Skills
 
-<p align="left">
+
+  <p align="left">
   <a href="https://ieeexplore.ieee.org/author/968720097337954.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/IEEE_logo.svg/512px-IEEE_logo.svg.png" alt="IEEE Xplore" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+ <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">

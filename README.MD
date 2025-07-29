@@ -26,7 +26,7 @@
 
   <p align="left">
   <a href="https://ieeexplore.ieee.org/author/968720097337954.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/IEEE_logo.svg/512px-IEEE_logo.svg.png" alt="IEEE Xplore" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/ieee.svg" alt="IEEE Xplore" width="40" height="40"/>
   </a>
  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>

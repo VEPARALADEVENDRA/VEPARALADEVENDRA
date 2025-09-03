@@ -5,7 +5,7 @@
 
 ## Skills and Technologies
 
-- *Web Development:* -HTML , CSS , JavaScript (JS) ,Boot Strap, SQL, React and MongoDB.
+- *Web Development:* -HTML , CSS , JavaScript (JS) ,Boot Strap, SQL, React and Node.
 - *Programming Languages:* - Java.
 - *Other Tools:* - Git , GitHub, Android Studio, FireBase, Visual Studio Code (VS Code).
   

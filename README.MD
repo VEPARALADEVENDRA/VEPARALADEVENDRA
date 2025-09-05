@@ -1,5 +1,5 @@
 ---
-# Hi there! 👋 I'm Veparala Devendra
+# Hi there!! 👋 I'm Veparala Devendra
 
 👋 Hey there! I'm a passionate software developer with a love for web development, programming, and creative multimedia projects.I enjoy turning complex problems into clean, efficient code and intuitive user experiences.From building responsive web apps to exploring new technologies, I'm always learning and experimenting.My work reflects a blend of creativity, logic, and curiosity.Check out my projects below and feel free to connect or collaborate! 🚀
 

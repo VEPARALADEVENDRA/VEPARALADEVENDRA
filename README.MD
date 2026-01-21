@@ -55,7 +55,8 @@ Feel free to reach out to me at veparaladevendra53@gmail.com, vdevendra746@gmail
 📍 Location: Hyderabad, India
 🕒 Available for: Full-time, Freelance, Internships
 
-💬 Feel free to reach out! I’m always open to collaborations, tech discussions, and exciting opportunities.
-                                                                         Let's connect and collaborate....! 
+
 ---
 
+💬 Feel free to reach out! I’m always open to collaborations, tech discussions, and exciting opportunities.
+                                                                         Let's connect and collaborate....! 

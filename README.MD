@@ -50,6 +50,13 @@
 
 ## Contact
 
-Feel free to reach out to me at veparaladevendra53@gmail.com, vdevendra746@gmail.com. Let's connect and collaborate....!
+<p align="left"> <a href="mailto:veparaladevendra53@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/> </a> <a href="mailto:vdevendra746@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/veparaladevendra/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://wa.me/919876543210" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40"/> </a> </p>
+
+📍 Location: Hyderabad, India
+🕒 Available for: Full-time, Freelance, Internships
+
+💬 Feel free to reach out! I’m always open to collaborations, tech discussions, and exciting opportunities.
+
+✨ Why this works:
 
 ---

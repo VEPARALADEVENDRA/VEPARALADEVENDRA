@@ -50,7 +50,7 @@
 
 ## Contact
 
-Feel free to reach out to me at veparaladevendra53@gmail.com, vdevendra746@gmail.com. Let's connect and collaborate....! 
+Feel free to reach out to me at veparaladevendra53@gmail.com, vdevendra746@gmail.com.
 
 📍 Location: Hyderabad, India
 🕒 Available for: Full-time, Freelance, Internships

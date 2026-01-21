@@ -52,8 +52,8 @@
 
 Feel free to reach out to me at veparaladevendra53@gmail.com, vdevendra746@gmail.com.
 
-📍 Location: Hyderabad, India
-🕒 Available for: Full-time, Freelance, Internships
+📞 Call / WhatsApp: +91 9247897027
+
 
 
 ---
